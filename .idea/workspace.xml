@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f429703-c1b4-4cc9-a854-216344f4bcdd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/완전탐색/완전탐색-2-소수찾기-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/해시/완주하지 못한 선수-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/해시/완주하지 못한 선수-효율성틀림.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/완전탐색/완전탐색-2-소수찾기.js" beforeDir="false" afterPath="$PROJECT_DIR$/완전탐색/완전탐색-2-소수찾기.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.완전탐색-2-소수찾기.js">
+  <component name="RunManager" selected="Node.js.완주하지 못한 선수-2.js">
+    <configuration name="완주하지 못한 선수-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="완주하지 못한 선수-2.js" working-dir="$PROJECT_DIR$/해시">
+      <method v="2" />
+    </configuration>
+    <configuration name="완주하지 못한 선수-효율성틀림.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/해시/완주하지 못한 선수-효율성틀림.js" working-dir="$PROJECT_DIR$/해시">
+      <method v="2" />
+    </configuration>
     <configuration name="완전탐색-1-모의고사.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/완전탐색/완전탐색-1-모의고사.js" working-dir="$PROJECT_DIR$/완전탐색">
       <method v="2" />
     </configuration>
@@ -63,6 +68,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.완주하지 못한 선수-2.js" />
+        <item itemvalue="Node.js.완주하지 못한 선수-효율성틀림.js" />
         <item itemvalue="Node.js.완전탐색-2-소수찾기.js" />
         <item itemvalue="Node.js.완전탐색-2-소수찾기.js" />
         <item itemvalue="Node.js.완전탐색-1-모의고사.js" />
@@ -81,6 +88,7 @@
       <updated>1586931281467</updated>
       <workItem from="1586931283623" duration="1489000" />
       <workItem from="1587027667368" duration="15622000" />
+      <workItem from="1587124670303" duration="6895000" />
     </task>
     <servers />
   </component>
@@ -92,7 +100,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
