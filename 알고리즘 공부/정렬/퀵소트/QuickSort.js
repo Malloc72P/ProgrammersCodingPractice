@@ -14,7 +14,7 @@ function partition(arr, low, high) {
     let pivot = arr[high];
     let i = low - 1;
 
-    for (let j = low ; j < high ; j++){
+    for (let j = low ; j <= high - 1 ; j++){
         if(arr[j] < pivot){
             i++;
             arrayManager.swap(arr, i, j);
