@@ -4,8 +4,26 @@ const quickSort             = require("./정렬/퀵소트/QuickSort");
 
 const towerSolver = require("./../프로그래머스/스택큐/탑");
 
-// let input = [6,9,5,7,4];
-// let input = [3,9,9,3,5,7,2];
-let input = [1,5,3,6,7,6,5];
+// const kFinder = require("./../프로그래머스/정렬/k번째수");
+const bigNumFinder = require("./../프로그래머스/정렬/가장큰수");
 
-console.log(`answer is ${towerSolver.solution(input)}`);
+
+let array = [3, 30, 34, 5, 9]	;
+// let array = [40,403 ]	;
+
+/*let array = []	;
+const min = 0;
+const max = 1000;
+const arrayLength = 10;
+for (let i = 0 ; i < arrayLength; i++){
+    let testElement = Math.floor(Math.random() * (max - min)) + min;
+    array.push(testElement);
+}*/
+
+console.log(`array is ${array}\n`);
+console.log(`answer is ${bigNumFinder.solution(array)}`);
+
+//1 11 109
+
+//109111
+//111109
